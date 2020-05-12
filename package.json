@@ -1,0 +1,21 @@
+{
+  "name": "rgb-random-color",
+  "version": "1.0.0",
+  "description": "Generates a single color randomly",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satyasandeep007/rgb-random-color"
+  },
+  "homepage": "https://github.com/satyasandeep007/rgb-random-color",
+  "main": "index.js",
+  "keywords": [
+    "rgb-random-color",
+    "color",
+    "rgb",
+    "random",
+    "colour",
+    "random-color"
+  ],
+  "author": "satyasandeep",
+  "license": "ISC"
+}
